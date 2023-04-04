@@ -1,0 +1,1 @@
+export type ValidInput = "X" | "O" | undefined;

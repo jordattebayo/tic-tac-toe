@@ -1,0 +1,21 @@
+h1, h2 {
+    text-align: center;
+}
+
+nb-button-group {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 0px;
+    margin: 2rem 0;
+    justify-content: center;
+}
+  
+app-square {
+    border: 1px gray solid;
+    height: 200px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
