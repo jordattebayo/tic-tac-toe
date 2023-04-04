@@ -1,6 +1,6 @@
-# TicTacToeApp
+# Tic Tac Toe App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4. This code was created using [Fireship.io](https://github.com/fireship-io/angular-tic-tac-toe) tutorial. 
 
 ## Development server
 
